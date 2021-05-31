@@ -34,7 +34,7 @@ long long int callnumber()
     return num;
 
 }
-//https://cppsecrets.com/users/22319897989712197103975756505164103109971051084699111109/Smart-and-Safe-Cab-Finder-Algorithm.php
+
 int main()
 {
     int choice,i,exit=0;
